@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+build/
+.DS_Store
+.env 
+// need help with above... if the .env is ignored by deployment, it needs to be added back in manually somehow to the deployment server.  Otherwise, nothing will work. 
+
